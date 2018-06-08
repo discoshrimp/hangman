@@ -1,0 +1,11 @@
+h1,
+div{
+    color: rgb(0, 173, 150);
+    font-style: sans-serif;
+}
+.container{
+    margin: auto;
+    border: 20px solid rgb(97, 0, 97);
+    background-color: rgb(240, 232, 240);
+    border-radius: 40px;
+}

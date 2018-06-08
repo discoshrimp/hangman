@@ -1,0 +1,8 @@
+create variables for wins, losses, guesses, guesses left, random letter:
+function to select [letter]
+function to push [letter] to [random letter]
+user input function [guesses]
+function to compare [random letter] to [guesses]
+if else statement to determine wins and losses
+function to tally [guesses left]
+function to keep track of [guesses]
